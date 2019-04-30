@@ -3,9 +3,9 @@ import React from "react";
 function NavigationBar(){
     return (
         <nav className="navbar">
-            <span className="menuBtn">MENU</span>
-            <span className="menuBtn">KONTAKT</span>
-            <span className="menuBtn">LOGOWANIE</span>
+            <div><span className="menuBtn">MENU</span></div>
+            <div><span className="menuBtn">KONTAKT</span></div>
+            <div><span className="menuBtn">LOGOWANIE</span></div>
         </nav>
     )
 }
