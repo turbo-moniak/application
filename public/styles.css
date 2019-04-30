@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  background-color: whitesmoke;
+}
+
+header {
+  height: 120px;
+  background-color: navajowhite;
+}
+
+.navbar {
+  height: 60px;
+  background-color: #333;
+  color: whitesmoke;
+  margin-bottom: 15px;
+  text-align: center;
+  font-size: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.menuBtn {
+  padding: 12px;
+  margin: 7px;
+  background-color: rgb(80, 80, 80);
+}
+
+footer {
+  height: 40px;
+  background-color: purple;
+  color: whitesmoke;
+  text-align: left;
+  font-size: 15px;
+  font-size: 10px;
+  line-height: 35px;
+  padding: 15px 15px 15px 15px;
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+}
